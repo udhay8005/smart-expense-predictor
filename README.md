@@ -23,7 +23,7 @@ A user-friendly, offline-compatible web application built with Streamlit to help
 
 ## 🚀 Live Demo
 
-👉 [**View Live Demo**](https://share.streamlit.io/udhay8005/smart-expense-predictor/app.py)
+👉 [**View Live Demo**](https://smart-expense-predictor.streamlit.app/)
 
 #### Application Screenshot
 
