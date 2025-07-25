@@ -28,8 +28,8 @@ A user-friendly, offline-compatible web application built with Streamlit to help
 #### Application Screenshot
 
 *Example of the main dashboard showing key metrics, charts, and forecast.*
-![Dashboard Screenshot](assets/screenshot1.png)
-![Dashboard-2 Screenshot](assets/screenshot2.png)
+![Dashboard Screenshot](assets/Screenshot1.png)
+![Dashboard-2 Screenshot](assets/Screenshot2.png)
 
 
 -----
@@ -186,6 +186,8 @@ Open your browser and navigate to `http://localhost:8501`.
 -----
 
 ## 📄 License
+
+-----
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
