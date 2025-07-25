@@ -187,10 +187,9 @@ Open your browser and navigate to `http://localhost:8501`.
 
 ## 📄 License
 
------
-
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
+-----
 
 # ⚙️ install_clean.ps1 – Safe Pip Installer Script for Windows
 
