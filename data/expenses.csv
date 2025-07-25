@@ -1,0 +1,155 @@
+Date,Category,Amount,Description
+2024-06-01 00:00:00,Food,250.0,Lunch at KFC
+2024-06-02 00:00:00,Transport,100.0,Auto to office
+2024-06-03 00:00:00,Groceries,750.0,Weekly grocery shopping
+2024-06-04 00:00:00,Food,120.0,Coffee and snack
+2024-06-05 00:00:00,Entertainment,300.0,Movie tickets
+2024-06-06 00:00:00,Food,80.0,Quick breakfast
+2024-06-07 00:00:00,Utilities,800.0,Electricity bill
+2024-06-08 00:00:00,Miscellaneous,50.0,Parking fee
+2024-06-09 00:00:00,Food,180.0,Dinner out
+2024-06-10 00:00:00,Transport,60.0,Bus fare
+2024-06-11 00:00:00,Shopping,450.0,New book
+2024-06-12 00:00:00,Food,90.0,Lunch at work
+2024-06-13 00:00:00,Health,200.0,Pharmacy purchase
+2024-06-14 00:00:00,Entertainment,150.0,Streaming service rental
+2024-06-15 00:00:00,Food,320.0,Weekend groceries
+2024-06-16 00:00:00,Miscellaneous,70.0,Car wash
+2024-06-17 00:00:00,Transport,110.0,Cab ride
+2024-06-18 00:00:00,Food,100.0,Snacks
+2024-06-19 00:00:00,Shopping,600.0,Clothes
+2024-06-20 00:00:00,Food,250.0,Dinner with friends
+2024-06-21 00:00:00,Utilities,150.0,Phone bill
+2024-06-22 00:00:00,Entertainment,200.0,Concert ticket
+2024-06-23 00:00:00,Food,130.0,Brunch
+2024-06-24 00:00:00,Transport,80.0,Metro fare
+2024-06-25 00:00:00,Education,1500.0,Online course fee
+2024-06-26 00:00:00,Food,70.0,Coffee
+2024-06-27 00:00:00,Health,300.0,Gym session
+2024-06-28 00:00:00,Miscellaneous,100.0,Parking fee
+2024-06-29 00:00:00,Food,200.0,Takeaway
+2024-06-30 00:00:00,Shopping,300.0,Gift
+2024-07-01 00:00:00,Rent,10000.0,Monthly rent payment
+2024-07-02 00:00:00,Food,150.0,Lunch
+2024-07-03 00:00:00,Transport,90.0,Auto fare
+2024-07-04 00:00:00,Groceries,600.0,Mid-week groceries
+2024-07-05 00:00:00,Entertainment,400.0,Theme park entry
+2024-07-06 00:00:00,Food,100.0,Breakfast
+2024-07-07 00:00:00,Utilities,650.0,Water bill
+2024-07-08 00:00:00,Miscellaneous,40.0,Toll fee
+2024-07-09 00:00:00,Food,200.0,Dinner at restaurant
+2024-07-10 00:00:00,Transport,70.0,Bus fare
+2024-07-11 00:00:00,Shopping,250.0,Cosmetics
+2024-07-12 00:00:00,Food,110.0,Cafe visit
+2024-07-13 00:00:00,Health,500.0,Doctor's visit
+2024-07-14 00:00:00,Entertainment,180.0,Board game
+2024-07-15 00:00:00,Food,380.0,Weekly grocery shopping
+2024-07-16 00:00:00,Miscellaneous,60.0,Dry cleaning
+2024-07-17 00:00:00,Transport,130.0,Cab to office
+2024-07-18 00:00:00,Food,90.0,Snacks
+2024-07-19 00:00:00,Shopping,700.0,Electronics accessory
+2024-07-20 00:00:00,Food,300.0,Pizza delivery
+2024-07-21 00:00:00,Utilities,120.0,Gas bill
+2024-07-22 00:00:00,Entertainment,250.0,Museum entry
+2024-07-23 00:00:00,Food,160.0,Smoothie
+2024-07-24 00:00:00,Transport,100.0,Metro fare
+2024-07-25 00:00:00,Subscriptions,199.0,Spotify premium
+2024-07-26 00:00:00,Food,80.0,Coffee
+2024-07-27 00:00:00,Health,400.0,Massage
+2024-07-28 00:00:00,Miscellaneous,50.0,Donation
+2024-07-29 00:00:00,Food,220.0,Lunch with colleagues
+2024-07-30 00:00:00,Shopping,500.0,Home decor
+2024-07-31 00:00:00,Transport,70.0,Bus fare
+2024-08-01 00:00:00,Food,280.0,Brunch with family
+2024-08-02 00:00:00,Transport,180.0,Train ticket
+2024-08-03 00:00:00,Groceries,850.0,Organic vegetables
+2024-08-04 00:00:00,Food,140.0,Ice cream
+2024-08-05 00:00:00,Entertainment,450.0,Bowling with friends
+2024-08-06 00:00:00,Food,90.0,Quick snack
+2024-08-07 00:00:00,Utilities,720.0,Internet bill
+2024-08-08 00:00:00,Miscellaneous,30.0,Public toilet
+2024-08-09 00:00:00,Food,250.0,Dinner at a new place
+2024-08-10 00:00:00,Transport,80.0,Metro fare
+2024-08-11 00:00:00,Shopping,600.0,Books
+2024-08-12 00:00:00,Food,120.0,Lunch at office
+2024-08-13 00:00:00,Health,350.0,Supplements
+2024-08-14 00:00:00,Entertainment,100.0,Magazine
+2024-08-15 00:00:00,Food,350.0,Homemade dinner ingredients
+2024-08-16 00:00:00,Miscellaneous,50.0,Tips
+2024-08-17 00:00:00,Transport,100.0,Cab ride
+2024-08-18 00:00:00,Health,400.0,Gym membership
+2024-08-19 00:00:00,Food,110.0,Coffee and pastry
+2024-08-20 00:00:00,Education,1000.0,Workshop fee
+2024-08-21 00:00:00,Food,70.0,Snack
+2024-08-22 00:00:00,Shopping,200.0,Stationery
+2024-08-23 00:00:00,Miscellaneous,75.0,Laundry service
+2024-08-24 00:00:00,Food,180.0,Dinner at home
+2024-08-25 00:00:00,Transport,60.0,Bus fare
+2024-08-26 00:00:00,Food,120.0,Snacks
+2024-08-27 00:00:00,Health,150.0,Haircut
+2024-08-28 00:00:00,Entertainment,80.0,Online game purchase
+2024-08-29 00:00:00,Food,90.0,Lunch
+2024-08-30 00:00:00,Transport,90.0,Local bus
+2024-08-31 00:00:00,Groceries,700.0,Weekend groceries
+2024-09-01 00:00:00,Rent,10000.0,Monthly rent payment
+2024-09-02 00:00:00,Food,220.0,Quick lunch
+2024-09-03 00:00:00,Transport,150.0,Taxi to station
+2024-09-04 00:00:00,Food,100.0,Coffee
+2024-09-05 00:00:00,Entertainment,350.0,Museum entry
+2024-09-06 00:00:00,Food,80.0,Breakfast
+2024-09-07 00:00:00,Groceries,800.0,Bulk shopping
+2024-09-08 00:00:00,Miscellaneous,60.0,Toll fee
+2024-09-09 00:00:00,Food,280.0,Dinner with family
+2024-09-10 00:00:00,Transport,70.0,Bus fare
+2024-09-11 00:00:00,Shopping,950.0,Winter clothes
+2024-09-12 00:00:00,Food,130.0,Cafe visit
+2024-09-13 00:00:00,Utilities,780.0,Gas bill
+2024-09-14 00:00:00,Health,600.0,Dental check-up
+2024-09-15 00:00:00,Food,300.0,Weekly grocery shopping
+2024-09-16 00:00:00,Entertainment,200.0,Cinema tickets
+2024-09-17 00:00:00,Transport,110.0,Cab ride
+2024-09-18 00:00:00,Food,90.0,Snacks
+2024-09-19 00:00:00,Shopping,400.0,New bag
+2024-09-20 00:00:00,Food,250.0,Takeaway dinner
+2024-09-21 00:00:00,Utilities,180.0,Electricity bill (extra usage)
+2024-09-22 00:00:00,Entertainment,150.0,Book purchase
+2024-09-23 00:00:00,Food,160.0,Smoothie
+2024-09-24 00:00:00,Transport,80.0,Metro fare
+2024-09-25 00:00:00,Subscriptions,399.0,Amazon Prime
+2024-09-26 00:00:00,Food,70.0,Coffee
+2024-09-27 00:00:00,Health,250.0,Hair products
+2024-09-28 00:00:00,Miscellaneous,110.0,Car wash
+2024-09-29 00:00:00,Food,200.0,Restaurant lunch
+2024-09-30 00:00:00,Shopping,300.0,Small appliance
+2024-10-01 00:00:00,Rent,10000.0,Monthly rent payment
+2024-10-02 00:00:00,Food,150.0,Lunch
+2024-10-03 00:00:00,Transport,90.0,Auto fare
+2024-10-04 00:00:00,Groceries,650.0,Mid-week groceries
+2024-10-05 00:00:00,Entertainment,500.0,Live show tickets
+2024-10-06 00:00:00,Food,100.0,Breakfast
+2024-10-07 00:00:00,Utilities,700.0,Water bill
+2024-10-08 00:00:00,Miscellaneous,40.0,Toll fee
+2024-10-09 00:00:00,Food,220.0,Dinner at restaurant
+2024-10-10 00:00:00,Transport,70.0,Bus fare
+2024-10-11 00:00:00,Shopping,280.0,New phone case
+2024-10-12 00:00:00,Food,120.0,Cafe visit
+2024-10-13 00:00:00,Health,550.0,Physiotherapy session
+2024-10-14 00:00:00,Entertainment,190.0,Online movie rental
+2024-10-15 00:00:00,Food,400.0,Weekly grocery shopping
+2024-10-16 00:00:00,Miscellaneous,65.0,Dry cleaning
+2024-10-17 00:00:00,Transport,140.0,Cab to airport
+2024-10-18 00:00:00,Food,95.0,Snacks
+2024-10-19 00:00:00,Shopping,750.0,Shoes
+2024-10-20 00:00:00,Food,320.0,Pizza delivery
+2024-10-21 00:00:00,Utilities,130.0,Phone bill
+2024-10-22 00:00:00,Entertainment,260.0,Art gallery entry
+2024-10-23 00:00:00,Food,170.0,Smoothie
+2024-10-24 00:00:00,Transport,105.0,Metro fare
+2024-10-25 00:00:00,Subscriptions,250.0,Gaming subscription
+2024-10-26 00:00:00,Food,85.0,Coffee
+2024-10-27 00:00:00,Health,420.0,Spa treatment
+2024-10-28 00:00:00,Miscellaneous,55.0,Donation
+2024-10-29 00:00:00,Food,230.0,Lunch with friends
+2024-10-30 00:00:00,Shopping,550.0,Kitchenware
+2024-10-31 00:00:00,Transport,75.0,Bus fare
+2024-11-01 06:52:27,Collage,2500.0,Exam fees
