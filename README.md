@@ -2,7 +2,13 @@
 -----
 
 # Smart Expense Predictor 💰
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 
+![Streamlit](https://img.shields.io/badge/Streamlit-%E2%AD%90-lightgrey)
+
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+---
 A user-friendly, offline-compatible web application built with Streamlit to help you track, manage, and visualize your personal expenses. Leveraging an XGBoost machine learning model, this tool not only provides insights into your historical spending habits but also forecasts your total expenses for the upcoming month—empowering you to budget proactively.
 
 -----
@@ -23,7 +29,10 @@ A user-friendly, offline-compatible web application built with Streamlit to help
 
 ## 🚀 Live Demo
 
-👉 [**View Live Demo**](https://smart-expense-predictor.streamlit.app/)
+ 👇Click here to view demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-expense-predictor.streamlit.app/)
+
 
 #### Application Screenshot
 
